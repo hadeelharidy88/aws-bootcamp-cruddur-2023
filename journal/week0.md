@@ -6,7 +6,7 @@ Required homework/tasks:
 ### Install AWS CLI using Gitpod
 
 ![image](https://user-images.githubusercontent.com/91920047/219857732-a6580712-5d2a-4c59-9ab0-bf8fd5527900.png)
-![image](https://user-images.githubusercontent.com/91920047/219857934-15507d02-62c4-49a6-aaf4-2ba8a369a252.png)
+![image](https://user-images.githubusercontent.com/91920047/219863408-0de42c19-f767-41bb-9fb5-1488027b6c1b.png)
 
 
 ### Generate AWS Credentials
