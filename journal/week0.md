@@ -9,7 +9,7 @@ Required homework/tasks:
 ![image](https://user-images.githubusercontent.com/91920047/219863408-0de42c19-f767-41bb-9fb5-1488027b6c1b.png)
 
 
-### Generate AWS Credentials
+### Create a user and generate AWS Credentials
 
 ![image](https://user-images.githubusercontent.com/91920047/219857901-0ec3da54-b27b-4eec-9b9e-0f40fdb3ac92.png)
 
