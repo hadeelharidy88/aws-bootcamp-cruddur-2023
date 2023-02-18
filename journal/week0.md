@@ -20,10 +20,15 @@ Update .gitpod.yml:
 
 ### Create a Budget
 
+Reference file in repo : [https://github.com/hadeelharidy88/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json]
+[https://github.com/hadeelharidy88/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget-notifications-with-subscribers.json]
+
 ![image](https://user-images.githubusercontent.com/91920047/219858178-7bb7e8c1-4cca-476f-91bc-0b54572a04c6.png)
 ![image](https://user-images.githubusercontent.com/91920047/219858146-458572be-0a7b-4d96-b687-ad9f3ba581c8.png)
 
 ### Create a Billing Alarm
+
+Reference file in repo : [https://github.com/hadeelharidy88/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm_config.json]
 
 ![image](https://user-images.githubusercontent.com/91920047/219859947-12338bd2-78c8-48b5-9a67-65718a07bf90.png)
 ![image](https://user-images.githubusercontent.com/91920047/219860839-8f45a148-f76e-4a98-b0dc-f74d7a6517d5.png)
