@@ -1,5 +1,31 @@
 # Week 0 — Billing and Architecture
 
+
+Required homework/tasks:
+-------------------------
+### Install AWS CLI using Gitpod
+
+![image](https://user-images.githubusercontent.com/91920047/219857732-a6580712-5d2a-4c59-9ab0-bf8fd5527900.png)
+![image](https://user-images.githubusercontent.com/91920047/219857934-15507d02-62c4-49a6-aaf4-2ba8a369a252.png)
+
+
+### Generate AWS Credentials
+
+![image](https://user-images.githubusercontent.com/91920047/219857901-0ec3da54-b27b-4eec-9b9e-0f40fdb3ac92.png)
+
+### Create a Budget
+
+![image](https://user-images.githubusercontent.com/91920047/219858178-7bb7e8c1-4cca-476f-91bc-0b54572a04c6.png)
+![image](https://user-images.githubusercontent.com/91920047/219858146-458572be-0a7b-4d96-b687-ad9f3ba581c8.png)
+
+### Create a Billing Alarm
+
+![image](https://user-images.githubusercontent.com/91920047/219859947-12338bd2-78c8-48b5-9a67-65718a07bf90.png)
+![image](https://user-images.githubusercontent.com/91920047/219860839-8f45a148-f76e-4a98-b0dc-f74d7a6517d5.png)
+![image](https://user-images.githubusercontent.com/91920047/219862828-714769e2-980c-4e24-afc6-4e2c717ba1c0.png)
+
+
+
 Homework Challenges:
 --------------------
 1) Destroyed your root account credentials, Set MFA, IAM role -------> Done
