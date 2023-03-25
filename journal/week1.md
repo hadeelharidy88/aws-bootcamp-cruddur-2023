@@ -12,15 +12,15 @@
 
 2) Build Container:
 
-'''
+```
 docker build -t  backend-flask ./backend-flask
-'''
+```
 
 3) Run Container:
 
-'''
+```
 docker run --rm -p 4567:4567 -it -e FRONTEND_URL='*' -e BACKEND_URL='*' backend-flask
-'''
+```
 4) Open port to public and test it by adding //api/activities/home to URL.
 
 ![image](https://user-images.githubusercontent.com/91920047/227708976-5c54508b-ab7d-486f-9e9c-419f4ac2e3e3.png)
@@ -29,10 +29,10 @@ docker run --rm -p 4567:4567 -it -e FRONTEND_URL='*' -e BACKEND_URL='*' backend-
 
 1) First run NPM Install:
 
-'''
+```
 cd frontend-react-js
 npm i
-'''
+```
 
 2) Add Dockerfile:
 
@@ -40,14 +40,14 @@ npm i
 
 3) Build Container:
 
-'''
+```
 docker build -t frontend-react-js ./frontend-react-js
-'''
+```
 4) Run Container:
 
-'''
+```
 docker run -p 3000:3000 -it  -e FRONTEND_URL='*' -e BACKEND_URL='*' frontend-react-js
-'''
+```
 
 ## Run Multiple Containers
 
