@@ -12,7 +12,7 @@ tasks:
   - name : react-js
     command : |
       cd frontend-react-js
-      npm
+      npm i
 
 
   - name: postgres
